@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Fira+Code:wght@300..700&family=Oswald:wght@200..700&display=swap');
+*{
+
+     margin: 0; /* usada para definir as margens */
+}
+.fundo{
+  
+    background-image: url('../img/brencom.jpg'); /*usado para colocar imagens de fundo*/
+     
+    background-size:cover; /*define o temanho da imagem de fundo */
+
+    background-position: center;/*define a posição o seu texto h1*/
+
+    height: 100vh;
+
+    align-content: center;
+
+    
+}
+.titulo{
+  color: blueviolet;
+  text-align: center;
+  font-family: 'Aguafina Script';
+  font-weight: 400;
+}
